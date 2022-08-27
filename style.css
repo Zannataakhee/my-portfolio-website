@@ -127,3 +127,32 @@ body{
 .blue{
 	background-color:#FFF4D6;
 }
+.help-their {
+	display: flex;
+	padding-top: 10%;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+.half-width{
+	width: 50%;
+}
+.half-width img {
+	width: 450px;
+}
+.half-width h1 {
+	font-size: 30px;
+	line-height: 10px;
+	color: #1D1D1D;
+}
+.half-width h3 {
+	font-size: 18px;
+	color: #A3A1A1;
+	line-height: 8px;
+	font-weight: 4;
+}
+.for-padding {
+	padding-top: 2px;
+}
+.button-style {
+	padding-top: 22px;
+}
