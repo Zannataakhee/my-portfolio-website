@@ -1,0 +1,129 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.about-donate-people{
+    background-image:url(images/donation7.jpg)
+   }
+.about-donate {
+    padding-top: 80px;
+    height: 400px;
+}
+.about-donate h1 {
+	font-size: 40px;
+	text-align: center;
+	color:#FF8C00;
+	line-height: 24px;
+}
+.about-donate h3 {
+	font-size: 16px;
+	font-weight: 8;
+	text-align: center;
+	color:#FF8C00;
+	line-height: 10px;
+}
+.link-button {
+	text-decoration: none;
+	font-size: 22px;
+	padding: 10px 10px;
+	color: white;
+	background-color: #FF5959;
+	border-radius: 5px;
+}
+.click-here {
+	text-align: center;
+	line-height: 90px;
+}
+.donate-choice {
+	padding-top: 34px;
+}
+.donate-choice h1 {
+	text-align: center;
+	font-size: 26px;
+}
+.donate-choice h3 {
+	text-align: center;
+	font-size: 16px;
+	font-weight: 8;
+	line-height: 10px;
+	color: #A1A1A1;
+}
+.chose-options {
+	display: flex;
+	padding-left: 26%;
+}
+.donate-options {
+	padding: 30px;
+}
+.donate-options h1 {
+	color: #707070;
+	padding: 20px 10px;
+	background-color: #E3DCFF;
+	border-radius: 8px;
+}
+.color {
+	padding: 28px;
+}
+.color h1 {
+	color: #FF5959;
+	background-color: #FFEEEE;
+	padding: 20px 10px;
+	border: 3px solid red;
+	border-radius: 8px;
+}
+.another-options {
+}
+.another-options h2 {
+	text-align: center;
+	color: #A1A1A1;
+	font-size: 26px;
+	font-weight: 3;
+	line-height: 10px;
+}
+.border {
+	border-bottom: 2px solid #A1A1A1;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+.about-donate-plan {
+	padding-top: 50px;
+}
+.donate-plan{}
+.donate-plan h1 {
+	text-align: center;
+	font-size: 32px;
+	color: #121212;
+}
+.donate-plan h3 {
+	text-align: center;
+	line-height: 10px;
+	font-weight: 3;
+	font-size: 16px;
+	color: #A3A1A1;
+}
+.human-rights {
+	display: flex;
+	padding-left: 14%;
+	padding-top: 10px;
+}
+.f-s-e {
+	padding: 40px;
+	margin: 16px;
+}
+.f-s-e h1 {
+	font-size: 20px;
+}
+.f-s-e h3 {
+	font-size: 16px;
+	font-weight: 6;
+	color: #A3A1A1;
+	line-height: 8px;
+}
+.skyblue{
+	background-color:#EDF5F6;
+}
+.rosy{
+	background-color: #FFEEEE;
+}
+.blue{
+	background-color:#FFF4D6;
+}
