@@ -5,8 +5,8 @@ body{
     background-image:url(images/donation7.jpg)
    }
 .about-donate {
-    padding-top: 80px;
-    height: 400px;
+	padding-top: 90px;
+	height: 430px;
 }
 .about-donate h1 {
 	font-size: 40px;
@@ -158,4 +158,31 @@ body{
 }
 .my-update {
 	padding-top: 50px;
+}
+.Your-address{
+	text-align: center;
+}
+.Your-address input {
+	padding: 12px;
+	width: 250px;
+	font-size: 18px;
+	color: #A3A1AC;
+	background-color: #737373;
+	border-radius: 5px;
+	margin-top: 90px;
+}
+.Your-address button {
+	background-color: coral;
+	width: 136px;
+	height: 48px;
+	margin-left: -8px;
+	font-size: 20px;
+	color: darkblue;
+	border-radius: 5px;
+}
+.bg-color {
+	background-color: bisque;
+	height: 206px;
+	margin-left: 18%;
+	margin-right: 18%;
 }
