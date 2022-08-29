@@ -30,6 +30,10 @@ body{
 	background-color: #FF5959;
 	border-radius: 5px;
 }
+.link-button:hover{
+	background-color: #1D1D1D;
+	color:crimson;
+}
 .click-here {
 	text-align: center;
 	line-height: 90px;
