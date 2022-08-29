@@ -177,6 +177,35 @@ body{
 #line-style{
 	padding-top: 10px;
 }
+.about-food {
+	display: flex;
+	margin-top: 80px;
+}
+.give-food img {
+	height: 350px;
+	width: 600px;
+}
+.give-them-food {
+	background-color: aquamarine;
+	width: 905px;
+	padding-left: 80px;
+	padding-top: 30px;
+	height: 320px;
+}
+.give-them-food h1 {
+	font-size: 40px;
+	font-family: cursive;
+	color: brown;
+}
+.give-them-food h2 {
+	font-size: 20px;
+	font-family: cursive;
+	font-weight: 200;
+	color:darkgoldenrod;
+}
+.give-them-food a{
+
+}
 .my-update {
 	padding-top: 50px;
 	padding-bottom: 30px;
