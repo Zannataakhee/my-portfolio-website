@@ -1,5 +1,5 @@
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
 	margin: 0%;
 }
 .about-donate-people{
@@ -154,8 +154,28 @@ body{
 .for-padding {
 	padding-top: 2px;
 }
+
 .button-style {
 	padding-top: 22px;
+}
+.help-the-people {
+	padding-top: 100px;
+	padding-left: 20%;
+}
+.help-the-people h1 {
+	text-align: justify;
+	font-size: 44px;
+	line-height: 10px;
+}
+.help-the-people h3 {
+	text-align: justify;
+	line-height: 18px;
+	font-size: 18px;
+	font-weight: 300;
+	color: #A3A1A1;
+}
+#line-style{
+	padding-top: 10px;
 }
 .my-update {
 	padding-top: 50px;
