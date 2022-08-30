@@ -12,14 +12,14 @@ body{
 .about-donate h1 {
 	font-size: 55px;
 	text-align: center;
-	color: bisque;
+	color: silver;
 	line-height: 24px;
 }
 .about-donate h3 {
 	font-size: 20px;
 	font-weight: 8;
 	text-align: center;
-	color: bisque;
+	color:silver;
 	line-height: 10px;
 }
 .link-button {
@@ -32,7 +32,7 @@ body{
 }
 .link-button:hover{
 	background-color: #1D1D1D;
-	color:crimson;
+	color:gray;
 }
 .click-here {
 	text-align: center;
@@ -64,6 +64,11 @@ body{
 	padding: 20px 10px;
 	background-color: #E3DCFF;
 	border-radius: 8px;
+}
+.donate-options h1:hover{
+	background-color: #FFEEEE;
+	color:#FF5959;
+	border: 3px solid red;
 }
 .color {
 	padding: 28px;
@@ -143,6 +148,7 @@ body{
 }
 .half-width img {
 	width: 450px;
+	border-radius: 10px;
 }
 .half-width h1 {
 	font-size: 30px;
@@ -164,7 +170,7 @@ body{
 }
 .help-the-people {
 	padding-top: 100px;
-	padding-left: 20%;
+	padding-left: 15%;
 }
 .help-the-people h1 {
 	text-align: justify;
@@ -186,7 +192,7 @@ body{
 	margin-top: 80px;
 }
 .give-food img {
-	height: 350px;
+	height: 400px;
 	width: 600px;
 }
 .give-them-food {
@@ -194,7 +200,7 @@ body{
 	width: 905px;
 	padding-left: 80px;
 	padding-top: 30px;
-	height: 320px;
+	height: 370px;
 }
 .give-them-food h1 {
 	font-size: 40px;
@@ -240,6 +246,8 @@ body{
 	height: 206px;
 	margin-left: 18%;
 	margin-right: 18%;
+	border-radius: 10px;
+	box-shadow: 10px 10px 25px gray;
 }
 .footer-style {
 	padding-top: 24px;
