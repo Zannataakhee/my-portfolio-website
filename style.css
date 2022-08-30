@@ -10,16 +10,16 @@ body{
 	height: 430px;
 }
 .about-donate h1 {
-	font-size: 40px;
+	font-size: 55px;
 	text-align: center;
-	color:#FF8C00;
+	color: bisque;
 	line-height: 24px;
 }
 .about-donate h3 {
-	font-size: 16px;
+	font-size: 20px;
 	font-weight: 8;
 	text-align: center;
-	color:#FF8C00;
+	color: bisque;
 	line-height: 10px;
 }
 .link-button {
@@ -107,7 +107,7 @@ body{
 }
 .human-rights {
 	display: flex;
-	padding-left: 14%;
+	padding-left: 10%;
 	padding-top: 10px;
 }
 .f-s-e {
